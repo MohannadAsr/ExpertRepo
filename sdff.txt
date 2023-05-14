@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-new work
-=======
- Nowww New Pull Request TRy
->>>>>>> main
+ASSAR MoHANNAD
